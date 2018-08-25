@@ -2,7 +2,7 @@
 
 > 腾讯课堂-Vue 实战项目(后台用户管理系统): https://ke.qq.com/course/237552?tuin=1a72985
 
-> 网易课堂-Vue 实战项目(后台用户管理系统): https://study.163.com/course/courseMain.htm?scourseId=1004459013&share=2&shareId=400000000198054
+> 网易课堂-Vue 实战项目(后台用户管理系统): https://study.163.com/course/introduction/1004459013.htm
 
 ## Build Setup
 
